@@ -48,3 +48,64 @@ body {
 .btn-primary {
 	background-color: palevioletred;
 }
+
+.img-fluid {
+	height: 325px;
+	object-fit: cover;
+	object-position: center center;
+	padding: 2rem;
+		
+}
+
+
+.title1{
+	font-size: 25px;
+	margin-left:  75px;
+	color: pink;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.title2 {
+	font-size: 25px;
+	margin-left:  65px;
+	color: pink;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.title3 {
+	font-size: 25px;
+	margin-left:  90px;
+	color: pink;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.title4 {
+	font-size: 25px;
+	margin-left:  72px;
+	color: pink;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.paragraph1 {
+	font-size: 12px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin-top: -5px;
+}
+
+.paragraph2 {
+	font-size: 12px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin-top: -5px;
+}
+
+.paragraph3 {
+	font-size: 12px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin-top: -5px;
+}
+
+.paragraph4 {
+	font-size: 12px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin-top: -3px;
+}
