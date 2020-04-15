@@ -15,19 +15,30 @@ body {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+	
 
 .images-6{
 	height: 250px;
 	width: 500px;
-	padding-left: 45px
+	padding-left: 45px;
 }
+
+	
+
 
 .half {
 	width: 550px;
 }
-
+	
+	
 
 .row {
 	padding-bottom: 20px;
+	
 }
 
+	
+
+.btn-primary {
+	background-color: palevioletred;
+}
