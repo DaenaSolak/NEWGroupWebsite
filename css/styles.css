@@ -28,18 +28,44 @@ body {
 
 .title2 {
 	font-size: 25px;
-	margin-left:  59px;
+	margin-left:  65px;
 	color: pink;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 }
 
 .title3 {
 	font-size: 25px;
-	margin-left:  65px;
+	margin-left:  90px;
 	color: pink;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 }
 
+.title4 {
+	font-size: 25px;
+	margin-left:  72px;
+	color: pink;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.paragraph1 {
+	font-size: 15px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+.paragraph2 {
+	font-size: 15px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+.paragraph3 {
+	font-size: 15px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+.paragraph4 {
+	font-size: 15px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
 
 
 
