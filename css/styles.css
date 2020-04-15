@@ -1,5 +1,11 @@
 @charset "utf-8";
 
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
@@ -14,6 +20,33 @@ body {
 .container {
 	margin-top: -30px;
 	margin-bottom: 20px;
+}
+	
+
+.images-6{
+	height: 250px;
+	width: 500px;
+	padding-left: 45px;
+}
+
+
+
+.half {
+	width: 600px;
+	
+}
+	
+	
+
+.row {
+	padding-bottom: 20px;
+	
+}
+
+	
+
+.btn-primary {
+	background-color: palevioletred;
 }
 
 .img-fluid {
@@ -76,9 +109,3 @@ body {
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	margin-top: -3px;
 }
-
-
-
-
-
-
